@@ -1,0 +1,26 @@
+body {
+    background-color: black !important;
+    color: aliceblue !important;
+    text-align: center;
+}
+img {
+    height: 500px !important;
+}
+h4 {
+    font-size: 30px !important;
+}
+h1 {
+    font-size: 60px !important;
+}
+h2 {
+    font-size: 50px !important;
+}
+h3 {
+    font-size: 40px !important;
+}
+#MemoriaTolerancia {
+    border: 60px groove goldenrod;
+}
+#Tortura {
+    border: 60px groove silver
+}
